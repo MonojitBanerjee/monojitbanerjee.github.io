@@ -12,8 +12,8 @@ Einstein Copilot, Einstein Vision and Language etc.
   The metadata service stack is used by sky, peacock and X1. 
 
 ## Education							       		
-- M.S., Analyics | Gerogia Institue of Technology  (_May 2019_)	 			        		
-- B.Tech., Electronics  | West Bengal University of Technology (_Aug 2010_)
+- M.S., Analyics     | Gerogia Institue of Technology  (_May 2019_)	 			        		
+- B.S., Electronics  | West Bengal University of Technology (_Aug 2010_)
 
 
 ## Projects
