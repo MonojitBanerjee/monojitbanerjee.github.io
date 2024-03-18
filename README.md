@@ -14,6 +14,8 @@ Einstein Copilot, Einstein Vision and Language etc.
 ## Education							       		
 - M.S., Analyics | Gerogia Institue of Technology  (_May 2019_)	 			        		
 - B.Tech., Electronics  | West Bengal University of Technology (_Aug 2010_)
+
+
 ## Projects
 ### Build and host your secure personal site for free
 
