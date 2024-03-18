@@ -1,5 +1,5 @@
 # Lead - AI Platform
-[Email](mailto: mono.r.ban@gmail.com) / [Linkedin](https://www.linkedin.com/in/monojit-banerjee-itaus)
+[Email](mailto:mono.r.ban@gmail.com) / [Linkedin](https://www.linkedin.com/in/monojit-banerjee-itaus)
 
 
 ## Work Experience
