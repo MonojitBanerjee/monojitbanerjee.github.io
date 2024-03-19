@@ -11,6 +11,10 @@ Einstein Copilot, Einstein Vision and Language etc.
 - Built a platform to provide metadata service which powers millions of devices across North America and Europe. 
   The metadata service stack is used by sky, peacock and X1. 
 
+**Senior Software Engineer @ TCS (_Sep 2010 - _Feb 2020_)**
+- My role involved troubleshooting issues impacting business functions, 
+  migrating legacy monolithic web services to a modular structure, and conducting analysis on large-scale mortgage data.
+
 ## Education							       		
 - M.S., Analyics     | Gerogia Institue of Technology  (_May 2019_)	 			        		
 - B.S., Electronics  | West Bengal University of Technology (_Aug 2010_)
