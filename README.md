@@ -28,4 +28,3 @@ Einstein Copilot, Einstein Vision and Language etc.
 ## Publications
 1. 
 
-- [Blog](https://medium.com/@)
