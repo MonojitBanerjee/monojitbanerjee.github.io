@@ -50,8 +50,8 @@ Einstein Copilot, Einstein Vision and Language and Agentforce.
   migrating legacy monolithic web services to a modular structure, and conducting analysis on large-scale mortgage data.
 
 ## Education							       		
-- M.S.   | Gerogia Institue of Technology  	        		
-- B.S.   | West Bengal University of Technology
+- M.S.  | Gerogia Institue of Technology
+- B.S.  | West Bengal University of Technology
 
 
 ## Talks
