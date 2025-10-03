@@ -16,8 +16,9 @@
     "https://scholar.google.com/citations?hl=en&user=W2owveIAAAAJ",
     "https://www.crunchbase.com/person/monojit-banerjee",
     "https://en.everybodywiki.com/Monojit_Banerjee",
-    "https://www.igi-global.com/affiliate/monojit-banerjee/517835"
-    "https://x.com/mb202412"
+    "https://www.igi-global.com/affiliate/monojit-banerjee/517835",
+    "https://x.com/mb202412",
+    "https://about.me/monojitbanerjee"
   ],
   "alumniOf": [
     {
